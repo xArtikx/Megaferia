@@ -10,7 +10,11 @@ import java.util.ArrayList;
  *
  * @author andre
  */
-public class Main {
-
-   
+class editorial {
+    private String nit;
+    private String nombre;
+    private gerente gerente;
+     private ArrayList<libro> libros;
+     private ArrayList<stand> stands;
+     
 }

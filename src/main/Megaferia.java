@@ -10,7 +10,13 @@ import java.util.ArrayList;
  *
  * @author andre
  */
-public class Main {
+public class Megaferia {
 
-   
+    private ArrayList<stand> stands;
+    private ArrayList<editorial> editoriales;
+
+ 
+
+    public void buscar(ArrayList<stand> stands) {
+    }
 }

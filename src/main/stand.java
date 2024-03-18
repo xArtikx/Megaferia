@@ -10,7 +10,10 @@ import java.util.ArrayList;
  *
  * @author andre
  */
-public class Main {
+class stand {
 
-   
+    private int id;
+    private float precio;
+    private ArrayList<editorial> editoriales;
+
 }
