@@ -9,5 +9,9 @@ package main;
  * @author andre
  */
 class gerente {
+
+    public gerente() {
+        
+    }
     
 }
