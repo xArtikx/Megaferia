@@ -19,4 +19,21 @@ public class Megaferia {
 
     public void buscar(ArrayList<stand> stands) {
     }
+
+    public ArrayList<stand> getStands() {
+        return stands;
+    }
+
+    public ArrayList<editorial> getEditoriales() {
+        return editoriales;
+    }
+
+    public void setStands(ArrayList<stand> stands) {
+        this.stands = stands;
+    }
+
+    public void setEditoriales(ArrayList<editorial> editoriales) {
+        this.editoriales = editoriales;
+    }
+    
 }
