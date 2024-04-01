@@ -16,5 +16,13 @@ class editorial {
     private gerente gerente;
      private ArrayList<libro> libros;
      private ArrayList<stand> stands;
+
+    public editorial(String nit, String nombre, gerente gerente, ArrayList<libro> libros, ArrayList<stand> stands) {
+        this.nit = nit;
+        this.nombre = nombre;
+        this.gerente = gerente;
+        this.libros = libros;
+        this.stands = stands;
+    }
      
 }
