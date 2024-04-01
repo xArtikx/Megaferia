@@ -9,5 +9,8 @@ package main;
  * @author andre
  */
 class libro {
+
+    public libro() {
+    }
     
 }
